@@ -3,10 +3,9 @@
 
 
 ## 🙋‍♂️ About Me
-OBJECTIVE: Full stack developer with 7 years of experience in designing, developing and maintaining scalable and responsive web applications using different tech stacks. I have strong knowledge of software development life cycles, architecting scalable platforms, object-oriented programming and agile methodologies., 
-PROFILE SUMMARY:
+Full stack developer with 8 years of experience in designing, developing and maintaining scalable and responsive web applications using different tech stacks. I have strong knowledge of software development life cycles, architecting scalable platforms, object-oriented programming and agile methodologies.
 
-* Over 7 years of professional experience in Information Technology with extensive experience in application development using back end technologies
+* Over 7 years of professional experience in Information Technology with extensive experience in application development using front end technologies
 * Over 6 years of experience in working in fast-paced, high tech environments with cross functional teams using agile methodology
 * Over 4 years of experience in building smart contract and dapps in EVM networks such as Ethereum, Polygon, Arbitrum, Avalanche, BSC and so on.
 * Through knowledge in developing cloud native application using micro service methodology in pivotal cloud foundry platform
@@ -22,8 +21,8 @@ My skills
 1) Front-end Development
 - HTML5, CSS3(SCSS/SASS/LESS)
 - Pure JavaScript, ECMAScript(ES6/ES7/ES8), TypeScript
-- React.js, Next.js
-- Material UI, Ant Design, React-Bootstrap, HeadlessUI
+- React.js, Next.js, Angular.js, Vue.js, Svelte.js
+- Material UI, Ant Design, React-Bootstrap, HeadlessUI, Tailwind CSS, SCSS
 - Styled-components
 - Various CSS libraries like TailwindCSS, Bulma
 - Redux (redux-saga, redux-thunk, redux-persist, redux-form, redux-actions, redux-toolkit, Reselect, zustand)
